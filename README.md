@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shashi
 - 👀 I’m interested in Code 
 - 🌱 I’m currently learning Code😆
-- 💞️ I’m looking to collaborate on Coding 😆
+- 💞️ I'm passionate about Web3 and Blockchain
 - 📫 How to reach me @shashi2612
 
 <!---
