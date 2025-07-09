@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shashi
+- 👋 Hi, I’m @Hitesh
 - 👀 I’m interested in Code 
 - 🌱 I’m currently learning Code😆
 - 💞️ I'm passionate about Web3 and Blockchain
